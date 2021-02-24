@@ -1,5 +1,5 @@
 {
-    "name": "yzalis/supervisor",
+    "name": "randock/supervisor-ctl",
     "type": "library",
     "description": "Manage your supervisor instance with PHP..",
     "keywords": ["supervisor", "supervisord", "supervisorctl", "rpc", "api"],
